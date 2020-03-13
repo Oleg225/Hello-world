@@ -1,2 +1,3 @@
 # Hello-world
-just another repository
+Hi humans!
+Меня зовут олег. я начал увликаться програмированием и делаю проект.
